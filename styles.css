@@ -323,7 +323,7 @@ text-align: center;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
   grid-column: 2/3;
-background-image: url("Images\\fondo-box-1-2.png");
+background-image: url("fondo-box-1-2.png");
 overflow: hidden; background-position: center; /* Center the image */
 background-repeat: no-repeat; /* Do not repeat the image */
 background-size: cover;
@@ -372,7 +372,7 @@ font-weight: 700;
  border-top-right-radius: 0;
  border-bottom-right-radius: 0;
  grid-column: 1/2;    grid-row: 1/2;
-background-image: url("Images\\fondo-box-2.png");
+background-image: url("fondo-box-2.png");
 overflow: hidden; background-position: center; /* Center the image */
 background-repeat: no-repeat; /* Do not repeat the image */
 background-size: cover;
@@ -423,7 +423,7 @@ background-size: cover;
 
 }
 .calendar{
-  background-image: url("Images\\pexels-ann-nekr-5797906.jpg");
+  background-image: url("pexels-ann-nekr-5797906.jpg");
   overflow: hidden; background-position: center; /* Center the image */
 background-repeat: no-repeat; /* Do not repeat the image */
 background-size: cover; /* Resize the background image to cover the entire container */
