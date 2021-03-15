@@ -564,39 +564,8 @@ h1{
 
 }
 
-/*  */
-/* mid-container-2 */
-
-
-/*  */
-/* Third-container */
-.third-container{
-margin: 0 10%;
-}
-.box-box-title{
-font-size: 28px;
-}
-/*  */
-/* footer */
-.footer-content{
-  margin-top:200px;
-
-}
-
-
-
-
-
-
-
-}
-@media (max-width:850px) {
-/*  */
-
-  /*  */
-  .BOX-paragraphs{
-    display: none
-  }
+/*  mid-container-1*/
+/*    */
   .BOXES-GRID{
 
     display: grid;
@@ -633,14 +602,21 @@ font-size: 28px;
       grid-row: 3/4;
 
   }
-
-
-  /* */
-  /*  */
-  /* mid-container-2 */
-  .client-icon-img{
-  max-width: 50%;
-  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+/* mid-container-2 */
 
   .clients-GRID{
     margin: 15% 0;
@@ -687,16 +663,37 @@ font-size: 28px;
   }
   .generic-box{
 
-
-
     max-width:320px;
     max-height: 100px;
 
   }
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 /*  */
-/* third-container */
-.ROBOTO-BOX{
+/* Third-container */
+.third-container{
+margin: 0 10%;
+}
+.box-box-title{
+font-size: 28px;
+}
+  
+  
+  .ROBOTO-BOX{
 
 
     display: grid;
@@ -751,6 +748,59 @@ max-height: 280px;
 .calendar{
   min-height: 275px;
 }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+/*  */
+/* footer */
+.footer-content{
+  margin-top:200px;
+
+}
+
+
+
+
+
+
+
+}
+@media (max-width:850px) {
+/*  */
+
+  /* mid-container-1 */
+  .BOX-paragraphs{
+    display: none
+  }
+  
+
+
+  /* */
+  /*  */
+  /* mid-container-2 */
+  .client-icon-img{
+  max-width: 50%;
+  }
+
+  
+
+/*  */
+/* third-container */
+
 /* footer */
 .footer-title{
   font-size: 28px;
